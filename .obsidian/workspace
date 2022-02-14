@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "bc134600dd6abff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "25c2642ffb5a96cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Databases/Transactions/5. Concurrency Problem - Lost Update - and its solutions.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4a190256d76f82b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd23a959e1df5bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f4068afc15d81c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "370a77e08fc4160c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 470
+  },
+  "right": {
+    "id": "157875cee605e4f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "64bb12f1ad463f0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e696335d6d4f7cde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Databases/Transactions/5. Concurrency Problem - Lost Update - and its solutions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "25c2642ffb5a96cc",
+  "lastOpenFiles": [
+    "Programming/Databases/Transactions/5. Concurrency Problem - Lost Update - and its solutions.md",
+    "Programming/Databases/Transactions/4. Isolation Level - Repeatable Read (Snapshot Isolation).md",
+    "Programming/Databases/Transactions/3. Isolation Level - Read Committed.md",
+    "Vocabulary/To remember.md",
+    "Programming/Databases/Transactions/2. Handling errors.md",
+    "Programming/z_resources/DB_Transaction_Isolation_read_committed_preventing_dirty_reads.png",
+    "Programming/z_resources/DB_Transaction_Isolation_dirty_write.png",
+    "Programming/z_resources/DB_Warehouse_Column_oriented.png",
+    "Programming/Databases/Transactions/1. ACID.md",
+    "Programming/Databases/Transactions/_Common.md"
+  ]
+}

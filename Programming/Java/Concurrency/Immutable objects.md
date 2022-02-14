@@ -1,0 +1,2 @@
+ The final keyword supports the construction of immutable objects.
+ Final fields can’t be modified, but they also have special semantics under the Java Memory Model. Java Memory Model offers a special guarantee of initialization safety for sharing immutable objects. Immutable objects can be safely accessed even when synchronization is not used to publish the object reference. For this guarantee of initialization safety to hold, all of the requirements for immutability must be met: unmodi- fiable state, all fields are final, and proper construction.

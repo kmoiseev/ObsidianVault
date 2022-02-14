@@ -1,0 +1,1 @@
+The detailed delivery semantics vary by implementation and configuration, but in general, message brokers are used as follows: one process sends a message to a named *queue* or *topic*, and the broker ensures that the message is delivered to one or more *consumers* or *subscribers* to that *queue* or *topic*. There can be many producers and many consumers on the same topic.
